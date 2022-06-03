@@ -40,7 +40,7 @@ textarea {
 }
 
 ::placeholder {
-    color: #0A3871;
+    color: #da4ec7;
     font-size: medium;
 }
 
@@ -60,8 +60,8 @@ h5 {
 
 .btn-encrypt {
     color: white;
-    background-color: #0A3871;
-    border: #0A3871;
+    background-color: #da4ec7;
+    border: #da4ec7;
     border-radius: 20px;
     width: 48%;
     padding: 3%;
@@ -72,7 +72,7 @@ h5 {
 }
 
 .btn-decrypt {
-    color: #0A3871;
+    color: #da4ec7;
     background-color: #D8DFE8;
     border-radius: 20px;
     width: 48%;
