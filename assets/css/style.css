@@ -19,6 +19,8 @@ body {
 
 header img {
     margin-top: 2%;
+    width: 6%;
+    padding-left: 5%;
 }
 
 textarea {
