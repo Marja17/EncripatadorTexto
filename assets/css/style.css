@@ -73,7 +73,7 @@ h5 {
 
 .btn-decrypt {
     color: #da4ec7;
-    background-color: #D8DFE8;
+    background-color: white;
     border-radius: 20px;
     width: 48%;
     padding: 3%;
@@ -135,7 +135,7 @@ h5 {
 .btn-copy {
     margin-top: 10px;
     color: #da4ec7;
-    background-color: #D8DFE8;
+    background-color: white;
     border: 1px solid #da4ec7;
     border-radius: 30px;
     width: 100%;
